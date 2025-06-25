@@ -1,0 +1,130 @@
+# 📊 Business Intelligence Portfolio – TripleTen Bootcamp
+
+Welcome to my portfolio! This repository contains a collection of data analysis and business intelligence projects completed as part of the TripleTen Data Analytics Bootcamp. These projects simulate real-world business scenarios using Power BI, Excel, and SQL, showcasing my ability to clean data, build dashboards, extract insights, and propose data-driven recommendations.
+
+---
+
+## 🧭 Overview
+
+**Objective:**  
+To analyze business datasets from various industries — hospitality, retail, restaurant, and e-commerce — and create actionable insights using visualization tools and analytical techniques.  
+Each project focuses on transforming raw data into business value by answering key stakeholder questions and improving decision-making.
+
+---
+
+## 🔍 Projects Included
+
+### 1. 🍽️ Zomato Restaurant Insights
+**Goal:** Identify revenue drivers, customer behaviors, and menu performance for a fictional restaurant chain.
+
+**What Was Done:**
+- Cleaned and joined datasets using Excel
+- Built a Power BI dashboard with KPI cards, slicers, and category breakdowns
+- Used DAX to calculate revenue, user types, and menu trends
+
+**Key Features:**
+![Zomato KPI](images/zomato-kpi.png)
+![Zomato Cuisine Revenue](images/zomato-cuisine.png)
+
+**Conclusion:**
+- Premium users generated higher revenue per order
+- Certain cuisines outperformed in specific regions
+- Optimizing the menu could significantly improve margins
+
+**Suggestions:**
+- Streamline low-performing dishes
+- Introduce loyalty programs to increase user frequency
+
+---
+
+### 2. 🏙️ NYC Airbnb Analysis
+**Goal:** Explore pricing patterns and host activity to improve platform efficiency and city planning.
+
+**What Was Done:**
+- Cleaned listings and calendar data
+- Visualized average prices by borough, room type, and availability
+- Identified underperforming zones and pricing inconsistencies
+
+**Key Features:**
+![Airbnb Map](images/airbnb-map.png)
+![Airbnb Price Trends](images/airbnb-price-trends.png)
+
+**Conclusion:**
+- Manhattan listings had the highest prices but lowest availability
+- Many hosts overprice in areas with low demand
+
+**Suggestions:**
+- Guide hosts with dynamic pricing tools
+- Use data to advise tourism zoning policy
+
+---
+
+### 3. 🛒 Shopify Sales Performance
+**Goal:** Evaluate e-commerce sales and customer segmentation to boost retention and sales.
+
+**What Was Done:**
+- Used Excel and Power BI to build a sales funnel dashboard
+- Analyzed customer purchase frequency, product return rates, and sales per category
+- Created interactive slicers by time period and product line
+
+**Key Features:**
+![Shopify Sales](images/shopify-sales.png)
+![Shopify Funnel](images/shopify-funnel.png)
+
+**Conclusion:**
+- Repeat customers had higher lifetime value
+- Electronics had a high return rate
+- Targeted discounts improved retention
+
+**Suggestions:**
+- Develop CRM-based retention campaigns
+- Optimize inventory for top-performing SKUs
+
+---
+
+### 4. 🧾 Superstore Returns & Sales Dashboard
+**Goal:** Identify profitability trends and high-return product categories for a retail store.
+
+**What Was Done:**
+- Cleaned and combined sales and returns datasets
+- Created calculated fields in Power BI for return rate and profit margin
+- Built visuals showing sub-category sales vs. returns
+
+**Key Features:**
+![Superstore Returns](images/superstore-returns.png)
+![Superstore Profit](images/superstore-profit.png)
+
+**Conclusion:**
+- Furniture and Office Supplies had the highest return rates
+- Some sub-categories were unprofitable despite high sales
+
+**Suggestions:**
+- Investigate return causes for furniture
+- Focus marketing on low-return, high-profit products
+
+---
+
+## 📈 Final Thoughts
+
+Across all projects, I focused on turning business questions into clear visual answers. From customer behavior to pricing and retention, these dashboards show my ability to clean data, model KPIs, and communicate findings effectively.
+
+---
+
+## 🚀 Future Improvements
+
+- Connect dashboards to live SQL databases for real-time updates
+- Apply forecasting models for pricing or demand planning
+- Explore advanced DAX measures for deeper segmentation
+- Build executive-level summary pages for mobile views
+
+---
+
+## 📬 Contact
+
+John Davis Macharia  
+📍 Los Angeles, CA  
+📧 johnmacharia.contact@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/johndavismacharia)
+
+---
+
